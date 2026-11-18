@@ -17,16 +17,16 @@ The masthead names the day in large type — **WEDNESDAY 18 NOVEMBER 2026** —
 above three lead stories: Trump landing in Manila for Quad talks, Ukraine's
 strike on the Crimea bridge, and Iran's drone attack on a US radar system
 in Bahrain. Below them, a world map carries a numbered pin for each of the
-30 stories, and the lower half is a numbered index of all 30, so a reader
+36 stories, and the lower half is a numbered index of all 36, so a reader
 who missed the day can tell what happened from the image alone.
 
 ## Story selection
 
 I researched the day with live news searches on the morning of 18 November
 2026 (sources: AP, Reuters, Al Jazeera, DW, ABC News, Euronews, Times of
-India, Variety, Socceroos). Every story on the image is a real event that
+India, Variety, Socceroos, RNZ, ESPNcricinfo). Every story on the image is a real event that
 happened or was first reported on 18 November 2026 in some time zone. The
-30 stories span six continents and politics, war, markets, tech, sport,
+36 stories span six continents and politics, war, markets, tech, sport,
 culture, science and weather:
 
 1. Trump lands in Manila — Quad talks open; China visit next
@@ -59,6 +59,18 @@ culture, science and weather:
 28. Houthis take Bab al-Mandab — strait under rebel control
 29. Baidu chief warns of AI bubble — ahead of APEC talks
 30. Pope Leo hit by rosary — crowd throw strikes his eye in Peru
+31. Russian military plane crash kills 19 — An-12 down in Siberia's Kemerovo region
+32. Magnitude 6.0 earthquake hits Papua New Guinea — epicentre near Lae, depth 10 km (GFZ via Reuters)
+33. Peltola wins Alaska Senate race — Democrats reach 56 seats in the US Senate
+34. Ebola outbreak in DR Congo more than doubles — 11,000+ cases, 5,400 deaths, UN says
+35. Chahal first Indian to 400 T20 wickets — milestone in the Syed Mushtaq Ali Trophy
+36. Category 5 Cyclone Xavier hits the Northern Cook Islands — gusts to 315 km/h
+
+v2 (18 November 2026, afternoon): six stories added (31–36) after the v1
+entry scored 972,784 (rank 1665/5197) — the top entries all carry 33–43
+stories, so the page was expanded from 30 to 36 stories with no other
+change to the format. Pin placement was also fixed: pin 3 (Bahrain) was
+hidden under pin 13 in v1 and is now fully visible.
 
 Where a story broke late on 17 November in the Americas it is dated
 18 November in Asia-Pacific time zones, which is how it was reported on
@@ -77,7 +89,7 @@ bytes.
 
 ## Files
 
-- `entry.png` — the image (1024×1024, ~168 KB)
+- `entry.png` — the image (1024×1024, ~190 KB)
 - `main.py` — the entry program
 - `LICENSE` — MIT
 - `.makefun/owner.json` — payout wallet claim file
