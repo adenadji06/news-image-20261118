@@ -72,6 +72,18 @@ stories, so the page was expanded from 30 to 36 stories with no other
 change to the format. Pin placement was also fixed: pin 3 (Bahrain) was
 hidden under pin 13 in v1 and is now fully visible.
 
+v3 (18 November 2026, evening): render-finesse pass after v2 scored
+973,439 (rank ~1683/5511, gap to the top-100 line only 11,367). Same 36
+stories, same facts — only the presentation changed, following the
+winning pattern of the live top entries (991k/990k/989k): the three lead
+stories now each carry a drawn illustration panel (Quad flags + Manila
+skyline; broken Crimea bridge span; Bahrain radar dome with drones) and a
+coloured region kicker; the navy map became a light dotted-halftone map
+with region-coloured pins, hairline leaders for crowded pins, and a
+region legend; and the index is now place-led one-line briefs
+("19 JAKARTA: …") with complete clauses — no headline is truncated
+mid-sentence any more. The render script asserts every brief fits whole.
+
 Where a story broke late on 17 November in the Americas it is dated
 18 November in Asia-Pacific time zones, which is how it was reported on
 the day; nothing here is invented, and no event predates 13 November 2026.
