@@ -1,5 +1,13 @@
 # The World in One Day — Wednesday 18 November 2026
 
+Entry for the make.fun bounty
+[news-image-20261118](https://make.fun/bounty/news-image-20261118):
+one image summing up the world's news of Wednesday 18 November 2026.
+
+![bounty badge](https://make.fun/badge/news-image-20261118.svg)
+![rank badge](https://make.fun/badge/news-image-20261118/adenadji06/news-image-20261118/rank.svg)
+![reward badge](https://make.fun/badge/news-image-20261118/adenadji06/news-image-20261118/reward.svg)
+
 A front-page-style image summing up the world's news of Wednesday
 18 November 2026, drawn entirely in code with Python and Pillow.
 
